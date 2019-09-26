@@ -79,8 +79,8 @@ $(document).ready(function() {
 
   $(function() {
     typed.typed({
-      strings: ["Alliah Bautista.", "a BSIT Student.", "a Developer.", "a MuayThai Gal.", "Jiu Jitsuka"],
-      typeSpeed: 100,
+      strings: ["Alliah Bautista.", "a BSIT Student.", "a Developer.", "a MuayThai Gal.", "Jiu Jiteiro."],
+      typeSpeed: 90,
       loop: true,
     });
   });
